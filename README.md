@@ -18,7 +18,7 @@ Minha biblioteca pessoal de skills para usar em diferentes computadores. São c�
 | Documentos — 4 skills | PDF, Word, Excel e PowerPoint | `skills/pdf`, `skills/docx`, `skills/xlsx`, `skills/pptx` |
 | Remotion — 13 skills | Vídeos, animações, legendas e renderização | [remotion-best-practices](skills/remotion-best-practices/SKILL.md) e demais skills `remotion-*` |
 
-Total: **40 skills**. Os nomes completos por coleção estão em [fontes.lock.json](fontes.lock.json).
+A seleção inicial contém **40 skills**. As coleções adicionais estão em [colecoes](colecoes/README.md). O acervo completo tem **498 arquivos `SKILL.md`**, incluindo 3 definições auxiliares de avaliação e testes das fontes. Os caminhos completos por coleção estão em [fontes.lock.json](fontes.lock.json).
 
 ## Em outro computador
 
@@ -72,6 +72,6 @@ A cópia das skills Superpowers não instala automaticamente os hooks e a integr
 - [Remotion Skills](https://github.com/remotion-dev/skills)
 - [UI UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
 
-Os commits de origem e os hashes SHA-256 dos arquivos importados estão em [fontes.lock.json](fontes.lock.json). Os READMEs, avisos e licenças de raiz disponíveis estão em [origens](origens/); licenças internas acompanham as respectivas skills. Cada conteúdo mantém os termos da fonte, sem uma licença única imposta por esta biblioteca. O uso do Remotion também está sujeito aos termos do produto.
+Os commits de origem e os hashes SHA-256 dos arquivos importados estão em [fontes.lock.json](fontes.lock.json). Os READMEs, avisos e licenças de raiz disponíveis da seleção inicial estão em [origens](origens/); as novas coleções preservam esses arquivos nas próprias pastas em [colecoes](colecoes/README.md). Licenças internas acompanham as respectivas skills. Cada conteúdo mantém os termos da fonte, sem uma licença única imposta por esta biblioteca. O uso do Remotion também está sujeito aos termos do produto.
 
-As cópias são fixas: atualizar esta biblioteca com `git pull` recebe o que foi salvo aqui, sem sincronizar automaticamente os cinco projetos de origem.
+As cópias são fixas: atualizar esta biblioteca com `git pull` recebe o que foi salvo aqui, sem sincronizar automaticamente os projetos de origem.
